@@ -1,3 +1,5 @@
+/* eslint import/newline-after-import: "off", import/first: "off" */
+
 /**
  * Package of Model related functionality.
  *
